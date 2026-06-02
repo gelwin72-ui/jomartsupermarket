@@ -1,0 +1,59 @@
+head {
+   color: rgb(245, 23, 7);
+   text-align:center
+}
+h1 {
+    color: rgb(255, 0, 0);
+    font-family: 'Courier New', Courier, monospace;
+     text-align:center
+}
+p {
+    color: darkgreen;
+    font-family: Verdana, sans-serif;
+    text-align:center
+} 
+body {
+    font-family: Arial, sans-serif;
+    text-align:straight ;
+      background-color: #F0F8FF;
+}
+nav {
+    background-color: #333;
+    padding: 10px;
+    text-align: center;
+}
+nav a {
+    color: white;
+    text-decoration: none;
+    margin: 15px;
+    font-size: 18px;
+}
+nav a:hover {
+    color: yellow;
+}
+img {
+    max-width: 100%;
+    height: auto;
+}
+p {
+    color: darkgreen;
+    font-family: Verdana, sans-serif;
+    text-align:center
+}
+footer{
+    background:#222;
+    color:white;
+    font-family: Verdana, sans-serif;
+    text-align:center;
+    padding:15px;
+}
+.whatsapp-btn{
+    background-color:#25D366;
+    color:white;
+    padding:12px 20px;
+    text-decoration:none;
+    border-radius:5px;
+    font-size:18px;
+    font-weight:bold;
+    text-align: center;
+}

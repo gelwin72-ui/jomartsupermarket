@@ -1,0 +1,34 @@
+body{
+    font-family: Arial, sans-serif;
+    background-color: #FFF8E7;
+    margin: 0;
+    padding: 0;
+}
+
+h1{
+    text-align: center;
+    color: rgb(15, 63, 219);
+    margin-top: 30px;
+}
+
+ul{
+    width: 80%;
+    max-width: 600px;
+    margin: 30px auto;
+    padding: 0;
+}
+
+li{
+    list-style: none;
+    background-color: white;
+    margin: 10px 0;
+    padding: 15px;
+    border-left: 5px solid  rgb(15, 63, 219);;
+    border-radius: 4px;
+    font-size: 20px;
+    box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+}
+
+li:hover{
+    background-color: #e8f5e9;
+}
